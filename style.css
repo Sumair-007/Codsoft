@@ -419,9 +419,9 @@ section{
   html{
     font-size: 80%;
   }
-  .navbar a{
+/*   .navbar a{
     display:none;
-  }
+  } */
   #menu_icon {
     
     display:inline-block;
